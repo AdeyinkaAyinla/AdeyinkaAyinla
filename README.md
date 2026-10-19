@@ -7,7 +7,7 @@ I help users and businesses keep their IT running smoothly and securely. I'm bui
 ### 🔧 Current focus
 
 - 📂 **[IT Support Portfolio](https://github.com/AdeyinkaAyinla/it-support-portfolio)**: 11 projects from hardware basics to an MSP capstone
-- 📚 Preparing for ITIL Foundation, AZ-900, MD-102 and CompTIA Security+
+- 📚 ITIL Foundation, AZ-900, MD-102 and CompTIA Security+
 
 ### 🧰 Skills
 
