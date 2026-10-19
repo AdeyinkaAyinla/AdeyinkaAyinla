@@ -1,3 +1,4 @@
+
 # Hi, I'm Adeyinka 👋
 
 ### IT Support & Cybersecurity Professional · 3 years in regulated environments · Ireland 🇮🇪
@@ -10,7 +11,7 @@ I keep systems running and secure. I've supported users, identities and infrastr
 
 | | IT Support & Operations | Cybersecurity |
 | --- | --- | --- |
-| **Experience** | 3 years: EFCC, Polaris Bank, Bawoen Trust | Security monitoring, incident triage, access control, evidence handling |
+| **Experience** | Keldesso Ltd (Ireland), EFCC, Polaris Bank, Bawoen Trust | Security monitoring, incident triage, access control, evidence handling |
 | **Core skills** | Active Directory · Entra ID · endpoint support · patching · AV/EDR · networking · incident records | SIEM (Splunk, Sentinel, QRadar, Wazuh, ELK) · Wireshark · Nessus/OpenVAS · Burp Suite · nmap |
 | **Frameworks** | ITIL processes · SLAs · least privilege | NIST Privacy Framework · ISO 27001 · ISO/IEC 29134 · GDPR · NIS2 · OWASP API Top 10 |
 | **Certifications** | CompTIA A+ · CompTIA Network+ · Microsoft AZ-900 | ISC2 Certified in Cybersecurity (CC) |
@@ -19,9 +20,11 @@ I keep systems running and secure. I've supported users, identities and infrastr
 
 ## 💼 Experience
 
+- **Admin / IT Support**, Keldesso Ltd, Ireland · 2026–Present
+  Supporting staff, managing records and keeping day-to-day operations running in an Irish business environment.
 - **IT Systems & Security Support Officer**, Economic and Financial Crimes Commission (EFCC) · 2020–2025
   Administered systems, servers and networks; managed Active Directory identities and least-privilege access; supported secure digital-evidence platforms; worked with international partners including the U.S. Department of Justice.
-- **IT Security & Infrastructure Technician (Secondment)**, Polaris Bank Plc · 2013–2014
+- **IT Security & Infrastructure Technician**, Polaris Bank Plc · 2013–2014
   Access control, endpoint patching, vulnerability remediation and audit-ready documentation in a regulated financial environment.
 - **IT Support Technician**, Bawoen Trust Limited · 2012–2013
   Endpoint support, patch and antivirus management, incident records and asset registers.
@@ -59,3 +62,4 @@ A public series of **11 hands-on L1/L2 projects** (ServiceNow, Active Directory,
 
 - LinkedIn: [linkedin.com/in/adeyinka-ayinla-b7836386](https://www.linkedin.com/in/adeyinka-ayinla-b7836386/)
 - Open to **IT Support Engineer**, **Service Desk**, **Security Analyst / SOC** and **IT Security** roles in Ireland
+
